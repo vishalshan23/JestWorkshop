@@ -1,0 +1,23 @@
+{
+  "name": "jestworkshop",
+  "version": "1.0.0",
+  "description": "\"# JestWorkshop\"",
+  "main": "addition.js",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalshan23/JestWorkshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalshan23/JestWorkshop/issues"
+  },
+  "homepage": "https://github.com/vishalshan23/JestWorkshop#readme"
+}
